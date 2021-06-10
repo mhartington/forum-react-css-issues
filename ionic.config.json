@@ -1,0 +1,7 @@
+{
+  "name": "tmp-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
